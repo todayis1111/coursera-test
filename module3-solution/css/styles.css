@@ -5,9 +5,6 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-h2 {
-	text-align: center;
-}
 
 h3 {
   font-size: 20px;
@@ -54,9 +51,6 @@ h3 {
   font-size: 2em;
 }
 
-.center-block{
-	text-align: center;
-}
 
 .navbar-header{
 	color: #5f6112
